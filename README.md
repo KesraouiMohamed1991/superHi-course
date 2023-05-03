@@ -1,2 +1,2 @@
 # superHi-course
-this is a superhi course, where we are learning some animation with javascript
+This is a superhi course training , where we are learning some  javascript
